@@ -1,1 +1,1 @@
-# Housse_Price_Prediction_by_Lasso_Ridge
+# House_Price_Prediction_by_Lasso_Ridge
